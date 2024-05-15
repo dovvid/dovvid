@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dovvid
-- 🌱 I’m currently learning at SZ-Ybbs
+- 🏢 I’m currently working at Clouflight
 - 📫 david.blaimauer@gmail.com
 
 <!---
